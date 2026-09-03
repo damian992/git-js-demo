@@ -8,4 +8,6 @@ let age=20;
 console.log("hello");
 console.log(namee);
 console.log(age);
+let country="Ghana";
+console.log(country);
 
