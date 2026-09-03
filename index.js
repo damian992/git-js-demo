@@ -10,4 +10,6 @@ console.log(namee);
 console.log(age);
 let country="Ghana";
 console.log(country);
+let language="javaScript";
+console.log(language);
 
