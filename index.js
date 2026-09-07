@@ -12,4 +12,5 @@ let country="Ghana";
 console.log(country);
 let language="javaScript";
 console.log(language);
+console.log("changed on github")
 
